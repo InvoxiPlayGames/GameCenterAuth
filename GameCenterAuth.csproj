@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>GameCenterAuth</Title>
+    <Description>Basic C# .NET library for validating Apple Game Center identity signatures.</Description>
+    <PackageProjectUrl>https://github.com/InvoxiPlayGames/GameCenterAuth</PackageProjectUrl>
+    <Copyright>Copyright (C) 2024 Emma / InvoxiPlayGames</Copyright>
+    <RepositoryUrl>https://github.com/InvoxiPlayGames/GameCenterAuth</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>

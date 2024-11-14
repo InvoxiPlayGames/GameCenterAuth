@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCenterAuth", "GameCenterAuth.csproj", "{BA27216A-6F29-4559-AEF6-CC0F25C5CA43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA27216A-6F29-4559-AEF6-CC0F25C5CA43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA27216A-6F29-4559-AEF6-CC0F25C5CA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA27216A-6F29-4559-AEF6-CC0F25C5CA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA27216A-6F29-4559-AEF6-CC0F25C5CA43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D54E7E76-BB5D-4F8E-8B69-592D02D32730}
+	EndGlobalSection
+EndGlobal
